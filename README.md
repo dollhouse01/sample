@@ -15,7 +15,9 @@ Rest API coding is new to me and after doing my research on the assignment given
 REST API ?
 A RESTful API is an application program interface (API) that uses HTTP requests to GET, PUT, POST and DELETE data.
 
-Furthermore , there is an "index.php" file which is the solution to the assignment given by me.
+Furthermore , there is an "index.php" file which is the solution to the assignment given to me.
 
 NOTE: The answer provided to the question is a research and i did write this specific line of CODE.
 
+I WROTE A PHP VERSION OF THE ASSIGNMENT GIVEN TO ME, I KNOW ITS NOT REST API CODING BUT ITS SYNTAX ARE ALIKE.
+please check :
