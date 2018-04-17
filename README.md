@@ -10,7 +10,7 @@ Design a Rest API with these functionalities
 4.       Delete listing.
 
 5.       Search for listing.
-Rest API coding is new to me and after doing my research on the assignment given to me. i was able to study more on REST API and i tried by best with the time given to understand the concept of REST API and do a research on the assignment given.
+Rest API coding is new to me and after doing my research on the assignment given to me. i was able to study more on REST API and i tried my best with the time given to understand the concept of REST API and do a research on the assignment given.
 
 REST API ?
 A RESTful API is an application program interface (API) that uses HTTP requests to GET, PUT, POST and DELETE data.
